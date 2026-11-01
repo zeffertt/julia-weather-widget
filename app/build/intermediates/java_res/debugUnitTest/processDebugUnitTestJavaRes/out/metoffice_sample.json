@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.17,51.43,20]},"properties":{"requestPointDistance":120.5,"modelRunDate":"2026-11-01T08:00Z","timeSeries":[
+{"time":"2026-11-01T12:00Z","screenTemperature":11.3,"maxScreenAirTemp":11.4,"minScreenAirTemp":11.1,"screenDewPointTemperature":7.2,"feelsLikeTemperature":10.6,"windSpeed10m":1.9,"windDirectionFrom10m":220,"windGustSpeed10m":3.11,"max10mWindGust":3.5,"visibility":20000,"screenRelativeHumidity":78.1,"mslp":101800,"uvIndex":1,"significantWeatherCode":7,"precipitationRate":0.0,"totalPrecipAmount":0.0,"totalSnowAmount":0,"probOfPrecipitation":8},
+{"time":"2026-11-01T13:00Z","screenTemperature":11.9,"feelsLikeTemperature":11.1,"windSpeed10m":2.21,"windGustSpeed10m":3.87,"significantWeatherCode":12,"totalPrecipAmount":0.6,"probOfPrecipitation":62}
+]}}]}

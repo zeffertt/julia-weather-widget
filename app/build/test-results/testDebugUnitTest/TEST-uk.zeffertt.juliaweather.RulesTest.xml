@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.zeffertt.juliaweather.RulesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-01T09:27:23.308Z" hostname="vm" time="0.159">
+  <properties/>
+  <testcase name="sunsetMatchesHa" classname="uk.zeffertt.juliaweather.RulesTest" time="0.002"/>
+  <testcase name="scenarioD_coldAndSnow" classname="uk.zeffertt.juliaweather.RulesTest" time="0.077"/>
+  <testcase name="scenarioA_now" classname="uk.zeffertt.juliaweather.RulesTest" time="0.027"/>
+  <testcase name="cacheRoundTrip" classname="uk.zeffertt.juliaweather.RulesTest" time="0.036"/>
+  <testcase name="scenarioC_rainAndWind" classname="uk.zeffertt.juliaweather.RulesTest" time="0.012"/>
+  <testcase name="scenarioB_tomorrowAfter1930" classname="uk.zeffertt.juliaweather.RulesTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

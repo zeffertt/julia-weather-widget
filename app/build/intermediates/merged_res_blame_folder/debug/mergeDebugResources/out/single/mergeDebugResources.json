@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-debug-4:/drawable_ic_launcher.xml.flat",
+        "source": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-debug-4:/xml_widget_info.xml.flat",
+        "source": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-main-6:/xml/widget_info.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-debug-4:/layout_widget.xml.flat",
+        "source": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-main-6:/layout/widget.xml"
+    },
+    {
+        "merged": "uk.zeffertt.juliaweather.app-debug-4:/drawable_widget_preview.png.flat",
+        "source": "uk.zeffertt.juliaweather.app-main-6:/drawable/widget_preview.png"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-debug-4:/drawable_widget_preview.png.flat",
+        "source": "/root/.gradle/daemon/8.14.3/uk.zeffertt.juliaweather.app-main-6:/drawable/widget_preview.png"
+    }
+]
